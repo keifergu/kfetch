@@ -1,0 +1,22 @@
+{
+  "name": "kfetch",
+  "version": "1.0.0",
+  "description": "A fetch implenmention",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keifergu/kfetch.git"
+  },
+  "keywords": [
+    "fetch"
+  ],
+  "author": "Keifer Gu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keifergu/kfetch/issues"
+  },
+  "homepage": "https://github.com/keifergu/kfetch#readme"
+}
